@@ -1,0 +1,11 @@
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/bin/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.deps.json
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/bin/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.runtimeconfig.json
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/bin/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.runtimeconfig.dev.json
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/bin/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.dll
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/bin/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.pdb
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/obj/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.csprojAssemblyReference.cache
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/obj/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.csproj.CoreCompileInputs.cache
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/obj/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.AssemblyInfoInputs.cache
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/obj/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.AssemblyInfo.cs
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/obj/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.dll
+/Users/danielhunter/Projects/SelfTrainingProject.Inheritance.cs/SelfTrainingProject.Inheritance.cs/obj/Debug/netcoreapp2.1/SelfTrainingProject.Inheritance.cs.pdb
